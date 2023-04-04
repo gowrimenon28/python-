@@ -1,4 +1,4 @@
-from pyler import notification
+from plyer import notification
 
 title='Hello gowri'
 
